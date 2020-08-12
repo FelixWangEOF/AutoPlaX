@@ -1,0 +1,54 @@
+<schedule>
+	<config>
+		<title>Morning Track</title>
+		
+		<file>
+			<main>bell.mp3</main>
+			<ext name="eye">eye.mp3</ext>
+		</file>
+	</config>
+	<class>
+		<time>
+			<tstart>7:00</tstart>
+			<tend>8:00</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>8:00</tstart>
+			<tend>8:40</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>8:50</tstart>
+			<tend>9:30</tend>
+		</time>
+		<extplay>eye</extplay>
+	</class>
+	<class>
+		<time>
+			<tstart>9:40</tstart>
+			<tend>10:20</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>10:20</tstart>
+			<tend>10:40</tend>
+		</time>
+		
+	</class>
+	<class>
+		<time>
+			<tstart>10:40</tstart>
+			<tend>11:20</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>11:30</tstart>
+			<tend>12:10</tend>
+		</time>
+	</class>
+</schedule>

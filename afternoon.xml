@@ -1,0 +1,40 @@
+<schedule>
+	<config>
+		<title>Afternoon</title>
+		<file>
+			<main>bell.mp3</main>
+			<ext name="eye">eye.mp3</ext>
+		</file>
+	</config>
+	<class>
+		<time>
+			<tstart>12:45</tstart>
+			<tend>13:30</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>13:30</tstart>
+			<tend>14:10</tend>
+		</time>
+		<extplay>eye</extplay>
+	</class>
+	<class>
+		<time>
+			<tstart>14:20</tstart>
+			<tend>15:00</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>15:40</tstart>
+			<tend>16:20</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>16:30</tstart>
+			<tend>17:30</tend>
+		</time>
+	</class>
+</schedule>

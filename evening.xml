@@ -1,0 +1,14 @@
+<schedule>
+	<config>
+		<title>Evening class</title>
+		<file>
+			<main>bell.mp3</main>
+		</file>
+	</config>
+	<class>
+		<time>
+			<tstart>18:50</tstart>
+			<tend>20:30</tend>
+		</time>
+	</class>
+</schedule>

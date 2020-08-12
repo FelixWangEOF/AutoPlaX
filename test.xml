@@ -1,0 +1,29 @@
+<schedule>
+	<config>
+		<title>Tester of AutoPlax</title>
+		<zero>7:10</zero>
+		<file>
+			<main>bell.mp3</main>
+			<ext name="eye">eye.mp3</ext>
+		</file>
+	</config>
+	<class>
+		<time>
+			<tstart>7:10</tstart>
+			<tend>7:13</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>7:15</tstart>
+			<tend>7:20</tend>
+		</time>
+	</class>
+	<class>
+		<time>
+			<tstart>7:20</tstart>
+			<tend>7:24</tend>
+		</time>
+		<extplay>eye</extplay>
+	</class>
+</schedule>
